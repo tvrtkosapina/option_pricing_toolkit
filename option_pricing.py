@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from tkinter import *
 import numpy as np
 from scipy.stats import norm
 
